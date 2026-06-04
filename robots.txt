@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /editor
+Disallow: /settings
+Disallow: /admin
+Disallow: /characters
+Disallow: /sound
+
+Sitemap: https://comiclab.app/sitemap.xml
